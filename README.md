@@ -7,10 +7,8 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**Note:** Replace ```Shirleyson Kaisser``` ```skaisser``` ```http://www.skaisser.com``` ```skaisser@gmail.com``` ```skaisser``` ```laramail``` ```Centralize all user related emails and keep track of everything!``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
-PSRs you support to avoid any confusion with users and contributors.
+Very simple Laravel package to keep all user related transactional emails in one single place.
 
 ## Install
 
@@ -23,8 +21,7 @@ $ composer require skaisser/laramail
 ## Usage
 
 ``` php
-$skeleton = new League\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
+
 ```
 
 ## Change log
